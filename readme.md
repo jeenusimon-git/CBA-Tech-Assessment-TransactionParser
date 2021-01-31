@@ -1,5 +1,5 @@
 
-# CBA Interview - Transaction Parsing 
+# CBA Transaction Parsing 
 
 ## The Tech Stack used is as below
 1. Java
