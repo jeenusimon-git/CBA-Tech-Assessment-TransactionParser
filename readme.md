@@ -8,7 +8,7 @@
 ## Problem
 Create a program in Java to parse the file q1.test_data and write as key/value pairs in Excel/CSV file.
 
-## Structure of test data (as from problem statement https://github.com/cba-fdp-pub/test_assessment#note)
+## Structure of test data
 - SZ  [ represents the start of a transaction item (ex: Line1)  or you can take smh [record as the start of a transaction
 ]SZ à represents the end of a transaction (ex: Line29)
 With this you should be able to identify how many transactions in this sample input file
